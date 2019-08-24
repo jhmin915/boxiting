@@ -1,2 +1,7 @@
-boxiting test
-복싱사이트 중 최고!!
+# Boxing + Exciting
+
+복싱 사이트 짱
+
+## 기능 목록
+1. 스파링상대 찾기
+
